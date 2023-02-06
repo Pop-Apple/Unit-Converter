@@ -7,7 +7,7 @@ There is room for improvement
 
 | App | Version |
 ----|----
-| <img src="https://github.com/Pop-Apple/Unit-Converter/blob/master/Images/App.png" width="350px" height="200px"> | 1.0.0.1 |
+| <img src="https://github.com/Pop-Apple/Unit-Converter/blob/master/assets/App.png" width="350px" height="200px"> | 1.0.0.1 |
 
 ---
 
